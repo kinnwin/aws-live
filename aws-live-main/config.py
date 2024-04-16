@@ -1,7 +1,7 @@
 customhost = "database-1.chauwtk5goof.us-east-1.rds.amazonaws.com"
 customuser = "aws_user"
-custompass = "Bait3273"
+custompass = "Aacs3253"
 customdb = "employee"
-custombucket = "lowchoonkeat-employee1"
+custombucket = "chinkinnwynn-employee"
 customregion = "us-east-1"
 
